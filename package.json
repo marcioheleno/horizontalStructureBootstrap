@@ -1,0 +1,33 @@
+{
+  "name": "hsb-base",
+  "version": "1.0.0",
+  "description": "Estrutura horizontal base com bootstrap para desenvolvimento web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcioheleno/horizontalStructureBootstrap.git"
+  },
+  "author": "Marcio Heleno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcioheleno/horizontalStructureBootstrap/issues"
+  },
+  "homepage": "https://github.com/marcioheleno/horizontalStructureBootstrap#readme",
+  "dependencies": {
+    "body-parser": "~1.8.0",
+    "compression": "~1.0.11",
+    "connect": "^3.4.1",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "method-override": "~2.2.0",
+    "mongoose": "^4.4.17",
+    "morgan": "~1.3.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}

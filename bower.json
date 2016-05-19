@@ -1,0 +1,23 @@
+{
+  "name": "HSB-base",
+  "authors": [
+    "marcioheleno <marcio@marcioheleno.website>"
+  ],
+  "description": "Estrutura base do projeto mean com bootstrap",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6"
+  }
+}
